@@ -1,5 +1,4 @@
-
-[![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4D16AQEbz_O-JQtaHw/profile-displaybackgroundimage-shrink_350_1400/0/1671724797345?e=1690416000&v=beta&t=ZGR0vOZySKiRues0yL7TzYes6fqk7rD54qh1XM](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png
 ### Hi there 👋, I'm Mehebul Alif
 #### Web Developer
 
