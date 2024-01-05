@@ -1,11 +1,10 @@
 ![Web Developer](https://media.licdn.com/dms/image/D5616AQH1DQ4a_TzaGA/profile-displaybackgroundimage-shrink_350_1400/0/1684994557027?e=1709769600&v=beta&t=hUeeS_gAySYOaZfkwhemY9cBOQLkfpHOJN-z-yxqrgc)
-
 ### Hi there 👋, Mehebul Alif
 #### Web Developer
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind.
 
-Skills: Bootstrap 5 / REACT / JS / HTML / CSS
+Skills: HTML / CSS/Bootstrap 5 /Javascript  / REACT /
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javascript 
@@ -22,10 +21,6 @@ Skills: Bootstrap 5 / REACT / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehebul02)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehebul02&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Mehebul02/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Mehebul02)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mehebul02)  
 
