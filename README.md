@@ -4,7 +4,7 @@
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind.
 
-Skills: HTML / CSS/Bootstrap 5 /Javascript  / REACT /
+Skills: HTML / CSS/Tailwind Css /Javascript  / REACT /
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javascript 
