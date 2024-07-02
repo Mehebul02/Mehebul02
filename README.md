@@ -47,9 +47,10 @@
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mehebul02)](https://github.com/ryo-ma/github-profile-trophy)
-
+- 💬 Ask me about Web Developer
+  
+  ---
+  
 
 
 
