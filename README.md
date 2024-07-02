@@ -1,5 +1,4 @@
-![Web Developer]
-(https://media.licdn.com/dms/image/D5616AQH1DQ4a_TzaGA/profile-displaybackgroundimage-shrink_350_1400/0/1684994557027?e=1709769600&v=beta&t=hUeeS_gAySYOaZfkwhemY9cBOQLkfpHOJN-z-yxqrgc)
+![Web Developer](https://media.licdn.com/dms/image/D5616AQH1DQ4a_TzaGA/profile-displaybackgroundimage-shrink_350_1400/0/1684994557027?e=1709769600&v=beta&t=hUeeS_gAySYOaZfkwhemY9cBOQLkfpHOJN-z-yxqrgc)
 ### Hi there 👋, Mehebul Alif
 #### Web Developer
 
