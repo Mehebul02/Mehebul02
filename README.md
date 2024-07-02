@@ -3,6 +3,8 @@
 ![Header](./github-header-image.png)
   
 ## :chart_with_upwards_trend: Current Stats
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mehebul02&theme=dark&hide_border=true" width="400">
+</p>
 #### Web Developer
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind.
