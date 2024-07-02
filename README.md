@@ -34,7 +34,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
---- 
+</br>
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on Github 
