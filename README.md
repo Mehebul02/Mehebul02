@@ -1,4 +1,4 @@
-<img src="https://github.com/Mehebul02/Mehebul02/blob/master/header.png" alt="Mokkapps GitHub README header image">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋, Mehebul Alif
 #### Web Developer
 
