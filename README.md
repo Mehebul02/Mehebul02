@@ -23,7 +23,6 @@
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
-  
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
