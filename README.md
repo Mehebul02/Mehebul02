@@ -7,13 +7,13 @@
  ---
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Mehebul02&show_icons=true&theme=bear" width="400">
+ <img  src="https://github-readme-stats.vercel.app/api?username=Mehebul02&show_icons=true&theme=bear" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehebul02&theme=dark&hide_border=true" width="400">
 </p>
 
 --- 
 ## :mailbox: Follow me around the web
-<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="400"></a>
+<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="400" border-radius="20"></a>
 <a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 </div>
