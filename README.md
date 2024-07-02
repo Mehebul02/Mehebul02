@@ -4,7 +4,7 @@
   
 ## :chart_with_upwards_trend: Current Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Mehebul02&theme=dark&hide_border=true" width="400">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mehebul02&theme=dark&hide_border=true" width="900">
 </p>
 #### Web Developer
 
@@ -28,5 +28,5 @@ Skills: HTML / CSS/Tailwind Css /Javascript  / REACT /
 
 ![Mehebul02's Stats](https://github-readme-stats.vercel.app/api?username=Mehebul02&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Mehebul02)  
+
 
