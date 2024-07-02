@@ -42,12 +42,6 @@ Skills: HTML / CSS/Tailwind Css /Javascript  / REACT /
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mehebul02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/alif.islam.212)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/alif.islam.212//)  
-
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mehebul02)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Mehebul02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehebul02&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
