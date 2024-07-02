@@ -4,7 +4,7 @@
   
 ## :chart_with_upwards_trend: Current Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Mehebul02&theme=dark&hide_border=true" width="900">
+  ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mehebul02)  
 </p>
 #### Web Developer
 
