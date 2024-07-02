@@ -26,8 +26,8 @@
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-  <br /></br>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
+    <br /></br>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <br />
