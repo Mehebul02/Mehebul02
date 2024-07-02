@@ -31,7 +31,7 @@
     <br /></br>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+
 
 </br>
 
