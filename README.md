@@ -20,7 +20,7 @@ Skills: HTML / CSS/Tailwind Css /Javascript  / REACT /
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehebul02)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehebul02&show_icons=true&theme=transparent)
+![Mehebul02's Stats](https://github-readme-stats.vercel.app/api?username=Mehebul02&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mehebul02)  
 
