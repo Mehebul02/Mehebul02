@@ -4,7 +4,14 @@
   
 ## :chart_with_upwards_trend: Current Stats
 
-  ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mehebul02)  
+ ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehebul02&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehebul02&theme=dark&hide_border=true" width="400">
+</p>
+
+--- 
 
 #### Web Developer
 
