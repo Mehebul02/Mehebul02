@@ -1,5 +1,4 @@
 
-# Hello there 👋
 
 ![Header](./github-header-image.png)
   
