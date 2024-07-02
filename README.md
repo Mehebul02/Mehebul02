@@ -7,7 +7,7 @@
  ---
 
 <p align="center">
-  ![Mehebul02's Stats](https://github-readme-stats.vercel.app/api?username=Mehebul02&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+ <img src="https://github-readme-stats.vercel.app/api?username=Mehebul02&show_icons=true&theme=bear" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehebul02&theme=dark&hide_border=true" width="400">
 </p>
 
