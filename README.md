@@ -26,7 +26,7 @@
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-    <code><img width="8%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
+    <code><img width="8%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
     <br /></br>
