@@ -47,10 +47,10 @@
 
 ---
 ## :eyes: Current overview
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Developer
+- 🌱 I’m learning advanced database modeling, relations, and performance optimization with Prisma and PostgreSQL.
+- 👯 I’m open to collaborating on backend-heavy MERN or Next.js projects with PostgreSQL/Prisma integration.
+- 💬 Ask me anything about database design, Prisma ORM, or integrating PostgreSQL with Node.js/Next.js.
+- 📫 Reach me at mehebul02@gmail.com
   
   ---
   
