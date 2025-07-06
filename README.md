@@ -50,7 +50,7 @@
 - 🌱 I’m learning advanced database modeling, relations, and performance optimization with Prisma and PostgreSQL.
 - 👯 I’m open to collaborating on backend-heavy MERN or Next.js projects with PostgreSQL/Prisma integration.
 - 💬 Ask me anything about database design, Prisma ORM, or integrating PostgreSQL with Node.js/Next.js.
-- 📫 Reach me at mehebul02@gmail.com
+- 📫 Reach me at mehebul2122@gmail.com
   
   ---
   
