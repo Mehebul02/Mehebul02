@@ -1,6 +1,6 @@
 
 
-![Header](./github-header-image.png)
+
   
 ## :chart_with_upwards_trend: Current Stats
 
