@@ -11,9 +11,10 @@ I build scalable web applications with clean architecture, optimized database de
  ---
 
 <p align="center">
- <img  src="https://github-readme-stats.vercel.app/api?username=Mehebul02&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehebul02&theme=dark&hide_border=true" width="400">
+ <img src="https://github-readme-stats.vercel.app/api?username=Mehebul02&show_icons=true&theme=tokyonight" width="420"/>
+ <img src="https://streak-stats.demolab.com?user=Mehebul02&theme=tokyonight" width="420"/>
 </p>
+
 
 --- 
 
@@ -23,7 +24,6 @@ Frontend
 Backend
 <p> <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma" /> </p>
 UI Libraries
-<p> <img src="https://skillicons.dev/icons?i=antd" /> <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="30"/> </p>
 <p> <!-- Ant Design --> <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" height="30" /> <!-- Shadcn --> <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="30"/> </p>
 Real-Time & Other Tools
 <p> <img src="https://img.shields.io/badge/WebSocket-4A90E2?style=for-the-badge&logo=websocket&logoColor=white" height="30" /> <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,figma" /> </p>
