@@ -17,21 +17,15 @@ I build scalable web applications with clean architecture, optimized database de
 
 --- 
 
---- 
-
-## 🛠️ **Tech Stack**
-### **Frontend**
-<p> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" /> </p>
-### **Backend**
+🛠️ Tech Stack
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux" /> </p>
+UI Libraries
+<p> <img src="https://skillicons.dev/icons?i=antd" /> <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="30"/> </p>
+Backend
 <p> <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma" /> </p>
-### **Tools & Others**
-<p> <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,figma" /> </p>
----
-## 📌 **Top Languages**
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehebul02&theme=tokyonight&layout=compact&hide_border=true" width="400"/> </p>
-
----
-
+Real-Time & Other Tools
+<p> <img src="https://img.shields.io/badge/WebSocket-4A90E2?style=for-the-badge&logo=websocket&logoColor=white" height="30" /> <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,figma" /> </p>
 ## :mailbox: Follow me around the web
 <a href="https://www.linkedin.com/in/mehebul-alif-9b865025b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="150"></a>
 <a href="https://www.instagram.com/alif.islam.212/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" width="200"></a>
