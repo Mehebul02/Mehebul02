@@ -24,10 +24,8 @@ UI Libraries
 <p> <!-- Ant Design --> <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" height="30" /> <!-- Shadcn --> <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="30"/> </p>
 Real-Time & Other Tools
 <p> <img src="https://img.shields.io/badge/WebSocket-4A90E2?style=for-the-badge&logo=websocket&logoColor=white" height="30" /> <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,figma" /> </p>
-## :mailbox: Follow me around the web
-<a href="https://www.linkedin.com/in/mehebul-alif-9b865025b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="150"></a>
-<a href="https://www.instagram.com/alif.islam.212/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" width="200"></a>
-
+📬 Follow me around the web
+<p align="left"> <a href="https://www.linkedin.com/in/mehebul-alif-9b865025b/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /> </a> <a href="https://www.instagram.com/alif.islam.212/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" /> </a> <a href="mailto:mehebul2122@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" /> </a> </p>
 
 
 ## :computer: Most use Languages
