@@ -22,25 +22,16 @@ I build scalable web applications with clean architecture, optimized database de
 
 --- 
 
-## :computer: Languages and Tools
-
-</br>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-    <code><img width="8%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-   <code><img width="8%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
-    <br /></br>
-    <code><img width="14%" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg"></code>
-  <code><img width="14%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <code><img width="14%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-
-
-</br>
+## 🛠️ **Tech Stack**
+### **Frontend**
+<p> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" /> </p>
+### **Backend**
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma" /> </p>
+### **Tools & Others**
+<p> <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,figma" /> </p>
+---
+## 📌 **Top Languages**
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehebul02&theme=tokyonight&layout=compact&hide_border=true" width="400"/> </p>
 
 ---
 
