@@ -10,10 +10,7 @@ I build scalable web applications with clean architecture, optimized database de
 
  ---
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Mehebul02&show_icons=true&theme=tokyonight" width="420"/>
- <img src="https://streak-stats.demolab.com?user=Mehebul02&theme=tokyonight" width="420"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mehebul02&show_icons=true&theme=bear" width="400"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehebul02&theme=dark&hide_border=true" width="400"> </p>
 
 
 --- 
