@@ -1,6 +1,6 @@
 
 👋 Hi, I'm **Mehebul Alif**
-### 🧑‍💻 Full-Stack JavaScript Developer | Specialized in React, Next.js, Prisma & PostgreSQL
+### 🧑‍💻 Full-Stack Developer | Specialized in React, Next.js,
 
 I build scalable web applications with clean architecture, optimized database design, and seamless frontend-backend communication. Passionate about performance, real-time features, and modern full-stack development.
 
