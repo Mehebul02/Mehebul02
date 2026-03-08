@@ -15,7 +15,7 @@ Passionate about **performance**, **real-time systems**, and **modern full-stack
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehebul02&show_icons=true&count_private=true&theme=tokyonight" width="400"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Mehebul02&show_icons=true&count_private=true&theme=tokyonight" width="400"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehebul02&theme=tokyonight" width="400"/>
 </p>
 
