@@ -33,7 +33,7 @@ Passionate about **performance**, **real-time systems**, and **modern full-stack
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mehebul02&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehebul02" />
 </p>
 
 ---
