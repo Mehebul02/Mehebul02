@@ -51,19 +51,12 @@ I am a passionate **Full-Stack Developer** focused on engineering scalable web a
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Highlighted Engineering Projects
 
-### 🔹 Duae Application
-*A dedicated interface engineered for seamless content delivery and smooth user experiences.*
-- **Deployment:** [Live Demo](https://duae-application.vercel.app/)
-- **Source Code:** [GitHub Repository](https://github.com/Mehebul02/duae-application)
-- **Stack:** React, Firebase, Tailwind CSS
-
-### 🔹 Real-Time Chat Architecture
-*A highly responsive messaging platform built to manage persistent connections and instantaneous state synchronization.*
-- **Core Features:** Bidirectional WebSocket communication, live presence detection (online/offline), message queues, and unread badges.
-- **Stack:** Next.js, Node.js, WebSocket, Databases
-
+### 🔹 Clivence Coichy – Enterprise Tax Management System
+*   **Core Engineering:** Engineered a secure, cloud-based platform designed to streamline complex financial tracking and tax compliance. Implemented a robust data integrity architecture, dynamic tax calculation pipelines, and role-based secure authentication protocols.
+*   **Links:** [Live Production](https://clivencecoichy.vercel.app/)
+*   **Stack:** Next.js / React, Node.js, Database Architecture, Tailwind CSS.
 ---
 
 ## 🐍 Contribution Pipeline
