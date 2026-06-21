@@ -19,7 +19,7 @@ I design and build robust, scalable web applications with clean architecture, op
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </p>
 
 ### Backend, Databases & Real-Time
@@ -37,17 +37,12 @@ I design and build robust, scalable web applications with clean architecture, op
 
 ## 🚀 Highlighted Engineering Projects
 
-### 🔹 Clivence Coichy – Enterprise Tax Management System
-*   **Core Engineering:** Financial ডেটা ট্র্যাকিং এবং ট্যাক্স কমপ্লায়েন্স সহজ করার জন্য একটি ক্লাউড-বেসড প্ল্যাটফর্ম। এখানে ডেটা ইন্টিগ্রিটি মেইনটেইন করে dynamic financial calculation পাইপলাইন এবং সিকিউর ইউজার অথেনটিকেশন আর্কিটেকচার ইমপ্লিমেন্ট করা হয়েছে।
-*   **Links:** [Live Production](https://clivencecoichy.vercel.app/)
-*   **Stack:** Next.js / React, Node.js, Database Architecture, Tailwind CSS.
-
 ### 🔹 Real-Time Chat Application
-*   **Core Engineering:** WebSockets ব্যবহার করে একটি রিয়েল-টাইম বাই-ডাইরেকশনাল কমিউনিকেশন লেয়ার তৈরি করা হয়েছে। এতে ইনস্ট্যান্ট মেসেজিং, লাইভ অনলাইন/অফলাইন স্ট্যাটাস ট্র্যাকিং এবং আনরিড মেসেজ কাউন্টার ফিচার যুক্ত আছে।
+*   **Core Engineering:** Engineered a real-time bi-directional communication layer using WebSockets, implementing instant messaging, live online/offline status tracking, and unread message counters.
 *   **Stack:** Next.js, Node.js, WebSocket API, Database Architecture.
 
 ### 🔹 Duae Application
-*   **Core Engineering:** পারফরম্যান্স, সিমলেস স্টেট ম্যানেজমেন্ট এবং অপ্টিমাইজড ডেটা ফেচিংয়ের ওপর ফোকাস করে একটি হাইলি রেসপনসিভ ইউজার ইন্টারফেস তৈরি করা হয়েছে।
+*   **Core Engineering:** Developed a highly responsive UI focused on performance, seamless state management, and optimized data fetching with full responsiveness.
 *   **Links:** [Live Production](https://duae-application.vercel.app/) • [Source Code](https://github.com/Mehebul02/duae-application)
 *   **Stack:** React, Firebase, Tailwind CSS.
 
