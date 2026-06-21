@@ -1,89 +1,97 @@
-# 👋 Hi, I'm Mehebul Alif
+# 🧑‍💻 Mehebul Alif | Full-Stack Developer
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+Node.js;Specialized+in+High-Performance+Web+Apps;Database+Design+%26+Real-Time+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineer;Specialized+in+React+%7C+Next.js+%7C+Node.js;Building+Scalable+Cloud+Applications;Focused+on+Performance+%26+Real-Time+Systems" alt="Typing SVG" />
 </p>
 
-### 🧑‍💻 Full-Stack Engineer | Specialized in React, Next.js & Node.js
-
-I design and build robust, scalable web applications with clean architecture, optimized database schemas, and efficient frontend-backend communication. Passionate about **application performance**, **real-time architectures**, and **type-safe modern development**.
+I am a passionate **Full-Stack Developer** focused on engineering scalable web applications with clean architecture, optimized database designs, and high-performance frontend-backend ecosystems. I thrive on solving complex backend logic and crafting seamless user experiences.
 
 ---
 
-## 🛠️ Core Tech Stack
+## 🛠️ Technical Ecosystem
 
-### Frontend & UI Architecture
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<table>
+  <tr>
+    <td align="left" valign="top" width="50%">
+      <h4>🚀 Frontend & UI Engineering</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux" alt="Frontend Tech" /><br/><br/>
+      <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" height="28" />
+      <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="28"/>
+    </td>
+    <td align="left" valign="top" width="50%">
+      <h4>⚙️ Backend, Databases & Real-Time</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma" alt="Backend Tech" /><br/><br/>
+      <img src="https://img.shields.io/badge/WebSocket-4A90E2?style=for-the-badge&logo=websocket&logoColor=white" height="28" />
+      <img src="https://skillicons.dev/icons?i=firebase" height="28" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="left">
+      <h4>🧰 DevOps, Systems & Tools</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Engineering Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehebul02&layout=compact&theme=tokyonight" width="390" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehebul02&theme=tokyonight" width="390" alt="GitHub Streak" />
 </p>
 
-### Backend, Databases & Real-Time
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-4A90E2?style=for-the-badge&logo=websocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehebul02&show_icons=true&count_private=true&theme=tokyonight" width="500" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mehebul02&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-## 🚀 Highlighted Engineering Projects
-
-### 🔹 Real-Time Chat Application
-*   **Core Engineering:** Engineered a real-time bi-directional communication layer using WebSockets, implementing instant messaging, live online/offline status tracking, and unread message counters.
-*   **Stack:** Next.js, Node.js, WebSocket API, Database Architecture.
+## 🚀 Featured Projects
 
 ### 🔹 Duae Application
-*   **Core Engineering:** Developed a highly responsive UI focused on performance, seamless state management, and optimized data fetching with full responsiveness.
-*   **Links:** [Live Production](https://duae-application.vercel.app/) • [Source Code](https://github.com/Mehebul02/duae-application)
-*   **Stack:** React, Firebase, Tailwind CSS.
+*A dedicated interface engineered for seamless content delivery and smooth user experiences.*
+- **Deployment:** [Live Demo](https://duae-application.vercel.app/)
+- **Source Code:** [GitHub Repository](https://github.com/Mehebul02/duae-application)
+- **Stack:** React, Firebase, Tailwind CSS
+
+### 🔹 Real-Time Chat Architecture
+*A highly responsive messaging platform built to manage persistent connections and instantaneous state synchronization.*
+- **Core Features:** Bidirectional WebSocket communication, live presence detection (online/offline), message queues, and unread badges.
+- **Stack:** Next.js, Node.js, WebSocket, Databases
 
 ---
 
-## 📊 Technical Metrics & Contributions
-
+## 🐍 Contribution Pipeline
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehebul02&layout=compact&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehebul02&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehebul02&theme=tokyonight&show_icons=true" width="75%" />
-</p>
-
-### 🐍 Activity Pipeline
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mehebul02/Mehebul02/output/github-contribution-grid-snake.svg" alt="Activity Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/Mehebul02/Mehebul02/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
 
-## 👀 Current Focus & Engagement
-*   🌱 **Deep Dive:** Advanced relational database modeling, complex query optimization, and indexing strategies using **Prisma ORM & PostgreSQL**.
-*   👯 **Collaboration:** Looking to contribute to complex, backend-heavy MERN / Next.js ecosystem architectures.
-*   💬 **Let's Talk About:** Database Normalization, API Performance Optimization, Real-Time Sync, and Next.js Server Components.
-*   📫 **Direct Contact:** [mehebul2122@gmail.com](mailto:mehebul2122@gmail.com)
+## 🔍 Current Focus & Collaboration
+- 🎯 **Deep Dive:** Advanced database modeling, relational architecture, and query optimization utilizing **Prisma ORM & PostgreSQL**.
+- 🤝 **Collaboration:** Open to contributing to high-impact, backend-heavy **MERN** or **Next.js** enterprise applications.
+- 💬 **Let's Talk About:** Scalable architecture, database indexing, API optimization, and modern React design patterns.
 
 ---
 
-## 🌐 Professional Networks
+## 🌐 Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/mehebul-alif-9b865025b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
   </a>
   <a href="mailto:mehebul2122@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
+  </a>
+  <a href="https://www.instagram.com/alif.islam.212/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mehebul02&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</p>
+<img src="https://img.shields.io/badge/-%E2%AD%90%20Star%20my%20repos%20if%20you%20find%20them%20useful!-transparent?style=flat-square" alt="Star Banner" />
