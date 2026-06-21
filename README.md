@@ -14,16 +14,10 @@ Passionate about **performance**, **real-time systems**, and **modern full-stack
 
 ## 📊 GitHub Stats
 
-<p >
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Mehebul02&show_icons=true&count_private=true&theme=tokyonight" width="400"/> -->
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehebul02&layout=compact&theme=tokyonight" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehebul02&theme=tokyonight" width="400"/>
-   
 </p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehebul02&layout=compact&theme=tokyonight" width="400"/>
-</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mehebul02&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -33,7 +27,7 @@ Passionate about **performance**, **real-time systems**, and **modern full-stack
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehebul02" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehebul02&theme=tokyonight" />
 </p>
 
 ---
@@ -67,18 +61,20 @@ Passionate about **performance**, **real-time systems**, and **modern full-stack
 ## 🚀 Featured Projects
 
 ### 🔹 Duae Application
-- 🌐 Live: https://duae-application.vercel.app/
-- 💻 GitHub: https://github.com/Mehebul02/duae-application
-- 🛠 Tech: React, Firebase, Tailwind CSS
+- 🌐 **Live:** [duae-application.vercel.app](https://duae-application.vercel.app/)
+- 💻 **GitHub:** [Mehebul02/duae-application](https://github.com/Mehebul02/duae-application)
+- 🛠 **Tech:** React, Firebase, Tailwind CSS
 
 ### 🔹 Real-Time Chat Application
-- 🧠 Features: WebSocket, real-time messaging, online/offline status, unread messages
-- 🛠 Tech: Next.js, Node.js, WebSocket
+- 🧠 **Features:** WebSocket, real-time messaging, online/offline status, unread messages
+- 🛠 **Tech:** Next.js, Node.js, WebSocket
 
 ---
 
 ## 🐍 Contribution Graph
-![snake gif](https://github.com/Mehebul02/Mehebul02/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mehebul02/Mehebul02/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
 
 ---
 
